@@ -1,0 +1,12 @@
+.outer{
+    margin-top: 15px;
+}
+.app-title {
+    font-size: 1.5em;
+}
+.graph {
+    text-align: center;
+}
+.current {
+    margin-bottom: 30px;
+}
